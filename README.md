@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 ![sandy2008's github stats](https://github-readme-stats.vercel.app/api?username=sandy2008&count_private=true&show_icons=true&line_height=33.7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy2008&hide=css&count_private=true)
 
