@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![sandy2008's github stats](https://github-readme-stats.vercel.app/api?username=sandy2008&count_private=true&show_icons=true&line_height=33.7)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy2008&hide=css&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy2008&hide=css&count_private=false&layout=compact&langs_count=8)
 
 <!-- Here are some ideas to get you started:
 
